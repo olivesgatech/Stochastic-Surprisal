@@ -6,9 +6,11 @@ Code used in the paper "Stochastic Surprisal: : An inferential measurement of Fr
 
 This work is done in the [OLIVES @ Georgia Institute of Technology](https://ghassanalregib.info/)
 
-## Toy Example 1: Free Energy Principle in action
+### Toy Example: Free Energy Principle in action
 
+![Free Energy Principle](Figs/FEP.png)
 
+The Free Energy Principle (FEP) proposes a theory to explain the self-organizing capability of any intelligent and adaptive system [1]. FEP assumes the demarcation of a *system* that exists in an *environment* through a functional *Markov Blanket*. The Markov Blanket provides statistical independence to the system from its environment, thereby imbuing the system with a sense of *self*. A consequence of this separation is that the system only experiences the environment through the Markov Blanket based on a limited set of sensory inputs. These sensory inputs are used to create a generative model of the outside environment within the system. The system then performs a limited set of actions affecting the outside environment while updating its internal model of the outside environment. This way, the environment and the model are made to fit each other by reducing the mismatched input.
 
 ## Abstract
 
