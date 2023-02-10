@@ -1,10 +1,14 @@
-# Stochastic Surprisal: : An inferential measurement of Free Energy in Neural Networks
+# Stochastic Surprisal: An inferential measurement of Free Energy in Neural Networks
 
 Code used in the paper "Stochastic Surprisal: : An inferential measurement of Free Energy in Neural Networks", Frontiers in Neroscience, Vol 17, 2023. This article is part of the Research Topic: Scene-Dependent Image Quality and Visual Assessment
 
 **Citation:** M. Prabhushankar and G. AlRegib, "Stochastic Surprisal: An inferential measurement of Free Energy in Neural Networks," *Frontiers in Neuroscience*, 17, 2023.
 
 This work is done in the [OLIVES @ Georgia Institute of Technology](https://ghassanalregib.info/)
+
+## Toy Example 1: Free Energy Principle in action
+
+
 
 ## Abstract
 
